@@ -1,5 +1,8 @@
 # Sistema de gestión académico Campus
 
+### Julián Piñeros
+### Juan Esteban Alfonso
+
 Sistema de bases de datos con asignaturas, docentes y horarios de clase para una entidad educativa.
 
 - Registrar estudiantes.
