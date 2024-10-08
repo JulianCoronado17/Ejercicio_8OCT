@@ -10,9 +10,8 @@ Sistema de bases de datos con asignaturas, docentes y horarios de clase para una
 - Registrar docentes.
 - Asignar a cada curso un horario.
 - Registar aulas.
-- Vincula un curso con un aula determinada.
+- Vincula un curso con una aula determinada.
 - Crear un itinerario de clases que permita vincular cada estudiante con un salón y asignatura.
-- Llevar un registro de las ventas
 - Diagrama UML que ilustra de manera sencilla el contenido de la base de datos, permitiendo una guía visual eficiente.
 
 ## Justificación de las formas normales
